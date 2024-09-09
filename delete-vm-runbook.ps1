@@ -1,0 +1,1 @@
+Remove-AzResourceGroup -Name 'one-hour-vm' -Force -ErrorAction Stop
