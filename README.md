@@ -1,6 +1,6 @@
 # Virtual Machine Automation with PowerShell
 
-This project automates the creation, deletion, and recreation of an Azure VM. The VM runs from 9 AM to 10 AM CET every weekday.
+This project automates the creation, deletion, and recreation of an Azure VM. The VM runs from 9 AM to 10 AM CET every weekday. Schedule can be changed depending on the project needs.
 
 ## Steps
 
@@ -53,7 +53,7 @@ This project automates the creation, deletion, and recreation of an Azure VM. Th
   - Virtual Network
   - Disk
 
-## Technologies
+## Other Technologies
 
 - **PowerShell Scripts:** For VM lifecycle management.
 - **Azure PowerShell Modules (Az):** For interacting with Azure resources.
